@@ -1,0 +1,6 @@
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StreamsAndFiles\03WordCount\bin\Debug\03WordCount.exe.config
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StreamsAndFiles\03WordCount\bin\Debug\03WordCount.exe
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StreamsAndFiles\03WordCount\bin\Debug\03WordCount.pdb
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StreamsAndFiles\03WordCount\obj\Debug\03WordCount.csprojResolveAssemblyReference.cache
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StreamsAndFiles\03WordCount\obj\Debug\03WordCount.exe
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StreamsAndFiles\03WordCount\obj\Debug\03WordCount.pdb

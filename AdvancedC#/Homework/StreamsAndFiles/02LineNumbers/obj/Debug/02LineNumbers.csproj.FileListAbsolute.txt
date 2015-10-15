@@ -1,0 +1,6 @@
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StreamsAndFiles\02LineNumbers\bin\Debug\02LineNumbers.exe.config
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StreamsAndFiles\02LineNumbers\bin\Debug\02LineNumbers.exe
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StreamsAndFiles\02LineNumbers\bin\Debug\02LineNumbers.pdb
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StreamsAndFiles\02LineNumbers\obj\Debug\02LineNumbers.exe
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StreamsAndFiles\02LineNumbers\obj\Debug\02LineNumbers.pdb
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StreamsAndFiles\02LineNumbers\obj\Debug\02LineNumbers.csprojResolveAssemblyReference.cache

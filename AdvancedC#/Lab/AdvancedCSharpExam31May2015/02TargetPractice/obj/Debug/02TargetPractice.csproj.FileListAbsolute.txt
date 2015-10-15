@@ -1,0 +1,6 @@
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\AdvancedCSharpExam31May2015\02TargetPractice\bin\Debug\02TargetPractice.exe.config
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\AdvancedCSharpExam31May2015\02TargetPractice\bin\Debug\02TargetPractice.exe
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\AdvancedCSharpExam31May2015\02TargetPractice\bin\Debug\02TargetPractice.pdb
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\AdvancedCSharpExam31May2015\02TargetPractice\obj\Debug\02TargetPractice.exe
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\AdvancedCSharpExam31May2015\02TargetPractice\obj\Debug\02TargetPractice.pdb
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\AdvancedCSharpExam31May2015\02TargetPractice\obj\Debug\02TargetPractice.csprojResolveAssemblyReference.cache

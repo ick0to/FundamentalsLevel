@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\MultiArrSetsDictionaries\03MatrixShuffling\bin\Debug\03MatrixShuffling.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\MultiArrSetsDictionaries\03MatrixShuffling\bin\Debug\03MatrixShuffling.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\MultiArrSetsDictionaries\03MatrixShuffling\bin\Debug\03MatrixShuffling.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\MultiArrSetsDictionaries\03MatrixShuffling\obj\Debug\03MatrixShuffling.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\MultiArrSetsDictionaries\03MatrixShuffling\obj\Debug\03MatrixShuffling.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\MultiArrSetsDictionaries\03MatrixShuffling\obj\Debug\03MatrixShuffling.pdb

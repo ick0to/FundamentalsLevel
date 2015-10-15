@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\2TheSieveOfEratosthenes\bin\Debug\2TheSieveOfEratosthenes.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\2TheSieveOfEratosthenes\bin\Debug\2TheSieveOfEratosthenes.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\2TheSieveOfEratosthenes\bin\Debug\2TheSieveOfEratosthenes.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\2TheSieveOfEratosthenes\obj\Debug\2TheSieveOfEratosthenes.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\2TheSieveOfEratosthenes\obj\Debug\2TheSieveOfEratosthenes.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\2TheSieveOfEratosthenes\obj\Debug\2TheSieveOfEratosthenes.csprojResolveAssemblyReference.cache

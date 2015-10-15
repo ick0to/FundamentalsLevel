@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\01PrimeFactorization\bin\Debug\01PrimeFactorization.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\01PrimeFactorization\bin\Debug\01PrimeFactorization.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\01PrimeFactorization\bin\Debug\01PrimeFactorization.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\01PrimeFactorization\obj\Debug\01PrimeFactorization.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\01PrimeFactorization\obj\Debug\01PrimeFactorization.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\01PrimeFactorization\obj\Debug\01PrimeFactorization.pdb

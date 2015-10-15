@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StringsAndTextProcessing\05UnicodeCharacters\bin\Debug\05UnicodeCharacters.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StringsAndTextProcessing\05UnicodeCharacters\bin\Debug\05UnicodeCharacters.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StringsAndTextProcessing\05UnicodeCharacters\bin\Debug\05UnicodeCharacters.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StringsAndTextProcessing\05UnicodeCharacters\obj\Debug\05UnicodeCharacters.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StringsAndTextProcessing\05UnicodeCharacters\obj\Debug\05UnicodeCharacters.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StringsAndTextProcessing\05UnicodeCharacters\obj\Debug\05UnicodeCharacters.csprojResolveAssemblyReference.cache

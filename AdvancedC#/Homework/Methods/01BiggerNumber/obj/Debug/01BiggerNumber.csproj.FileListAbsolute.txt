@@ -1,0 +1,5 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\Methods\01BiggerNumber\bin\Debug\01BiggerNumber.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\Methods\01BiggerNumber\bin\Debug\01BiggerNumber.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\Methods\01BiggerNumber\bin\Debug\01BiggerNumber.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\Methods\01BiggerNumber\obj\Debug\01BiggerNumber.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\Methods\01BiggerNumber\obj\Debug\01BiggerNumber.pdb

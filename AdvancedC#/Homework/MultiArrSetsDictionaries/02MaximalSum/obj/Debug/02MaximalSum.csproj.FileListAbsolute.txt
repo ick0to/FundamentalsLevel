@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\MultiArrSetsDictionaries\02MaximalSum\bin\Debug\02MaximalSum.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\MultiArrSetsDictionaries\02MaximalSum\bin\Debug\02MaximalSum.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\MultiArrSetsDictionaries\02MaximalSum\bin\Debug\02MaximalSum.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\MultiArrSetsDictionaries\02MaximalSum\obj\Debug\02MaximalSum.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\MultiArrSetsDictionaries\02MaximalSum\obj\Debug\02MaximalSum.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\MultiArrSetsDictionaries\02MaximalSum\obj\Debug\02MaximalSum.pdb

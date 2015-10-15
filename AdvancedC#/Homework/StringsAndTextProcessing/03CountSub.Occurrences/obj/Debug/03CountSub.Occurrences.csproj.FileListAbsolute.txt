@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StringsAndTextProcessing\03CountSub.Occurrences\bin\Debug\03CountSub.Occurrences.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StringsAndTextProcessing\03CountSub.Occurrences\bin\Debug\03CountSub.Occurrences.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StringsAndTextProcessing\03CountSub.Occurrences\bin\Debug\03CountSub.Occurrences.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StringsAndTextProcessing\03CountSub.Occurrences\obj\Debug\03CountSub.Occurrences.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StringsAndTextProcessing\03CountSub.Occurrences\obj\Debug\03CountSub.Occurrences.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StringsAndTextProcessing\03CountSub.Occurrences\obj\Debug\03CountSub.Occurrences.pdb

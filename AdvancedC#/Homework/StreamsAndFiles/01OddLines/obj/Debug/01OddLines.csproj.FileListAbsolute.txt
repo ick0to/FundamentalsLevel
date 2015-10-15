@@ -1,0 +1,6 @@
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StreamsAndFiles\01OddLines\bin\Debug\01OddLines.exe.config
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StreamsAndFiles\01OddLines\bin\Debug\01OddLines.exe
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StreamsAndFiles\01OddLines\bin\Debug\01OddLines.pdb
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StreamsAndFiles\01OddLines\obj\Debug\01OddLines.csprojResolveAssemblyReference.cache
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StreamsAndFiles\01OddLines\obj\Debug\01OddLines.exe
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\StreamsAndFiles\01OddLines\obj\Debug\01OddLines.pdb

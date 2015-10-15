@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\04LinearAndBinarySearch\bin\Debug\04LinearAndBinarySearch.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\04LinearAndBinarySearch\bin\Debug\04LinearAndBinarySearch.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\04LinearAndBinarySearch\bin\Debug\04LinearAndBinarySearch.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\04LinearAndBinarySearch\obj\Debug\04LinearAndBinarySearch.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\04LinearAndBinarySearch\obj\Debug\04LinearAndBinarySearch.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\04LinearAndBinarySearch\obj\Debug\04LinearAndBinarySearch.pdb

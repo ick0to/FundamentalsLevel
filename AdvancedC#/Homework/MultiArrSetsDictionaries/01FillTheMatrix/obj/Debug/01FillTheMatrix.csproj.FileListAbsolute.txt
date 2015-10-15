@@ -1,0 +1,6 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\MultiArrSetsDictionaries\01FillTheMatrix\bin\Debug\01FillTheMatrix.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\MultiArrSetsDictionaries\01FillTheMatrix\bin\Debug\01FillTheMatrix.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\MultiArrSetsDictionaries\01FillTheMatrix\bin\Debug\01FillTheMatrix.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\MultiArrSetsDictionaries\01FillTheMatrix\obj\Debug\01FillTheMatrix.csprojResolveAssemblyReference.cache
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\MultiArrSetsDictionaries\01FillTheMatrix\obj\Debug\01FillTheMatrix.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\MultiArrSetsDictionaries\01FillTheMatrix\obj\Debug\01FillTheMatrix.pdb

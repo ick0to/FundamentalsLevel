@@ -1,0 +1,11 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\RegularExpressions\02Replace.a.tag\bin\Debug\02Replace.a.tag.exe.config
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\RegularExpressions\02Replace.a.tag\bin\Debug\02Replace.a.tag.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\RegularExpressions\02Replace.a.tag\bin\Debug\02Replace.a.tag.pdb
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\RegularExpressions\02Replace.a.tag\obj\Debug\02Replace.a.tag.exe
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\RegularExpressions\02Replace.a.tag\obj\Debug\02Replace.a.tag.pdb
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\RegularExpressions\02Replace.a.tag\bin\Debug\02Replace.a.tag.exe.config
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\RegularExpressions\02Replace.a.tag\obj\Debug\02Replace.a.tag.exe
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\RegularExpressions\02Replace.a.tag\obj\Debug\02Replace.a.tag.pdb
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\RegularExpressions\02Replace.a.tag\bin\Debug\02Replace.a.tag.exe
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\RegularExpressions\02Replace.a.tag\bin\Debug\02Replace.a.tag.pdb
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\RegularExpressions\02Replace.a.tag\obj\Debug\02Replace.a.tag.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\RegularExpressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe.config
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\RegularExpressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.exe
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\RegularExpressions\04.SentenceExtractor\bin\Debug\04.SentenceExtractor.pdb
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\RegularExpressions\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.exe
+C:\Users\ick0t_000\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Homework\RegularExpressions\04.SentenceExtractor\obj\Debug\04.SentenceExtractor.pdb

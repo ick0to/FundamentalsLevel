@@ -1,0 +1,1 @@
+C:\Users\Hristo\Documents\Visual Studio 2013\Projects\SoftUni\FundamentalLevel\AdvancedC#\Lab\Lab23September2015\05LargestRectangle\bin\Debug\05LargestRectangle.exe.config
